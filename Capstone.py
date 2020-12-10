@@ -189,3 +189,15 @@ closebutton = Button(text='EXIT', fg="white", bg="red", width=20, command=exit)
 closebutton['font'] = fontl
 closebutton.place(relx=0.6, rely=0.7)
 main.mainloop()
+
+
+
+
+
+
+
+
+
+
+
+
